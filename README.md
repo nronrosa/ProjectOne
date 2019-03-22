@@ -7,11 +7,11 @@ first group project
 * A lot of the time, even if we live in a city for years on end - we often find ourselves sitting on the couch around 5-6pm on a Friday or Saturday not sure what to entertain ourselves with for the evening
 
 ###EasyEvening App
-*EasyEvening is a way to create a date night, get together with friends, or entertain people that are your guests
-*Our application uses the both the Zomato API and the TicketMaster API to retrieve the desired data so  our user is able to see the options of both highly rated restaurants and events going on a 25 mile radius based on the city and state they enter in the input fields
+* EasyEvening is a way to create a date night, get together with friends, or entertain people that are your guests
+* Our application uses the both the Zomato API and the TicketMaster API to retrieve the desired data so  our user is able to see the options of both highly rated restaurants and events going on a 25 mile radius based on the city and state they enter in the input fields
 
 ###Tools Used
-Restuarant details from the Zomato API
-Event details from the Ticket master API 
-User validation using modals
-New library was mdbootstap for design
+* Restuarant details from the Zomato API
+* Event details from the Ticket master API 
+* User validation using modals
+* New library was mdbootstap for design
